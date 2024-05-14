@@ -1,0 +1,1 @@
+pyinstaller --name Pick-n-Pix --noconfirm --onedir --windowed --icon=images\application_icon.ico --add-data "images;.\images" controller.py

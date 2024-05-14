@@ -1,0 +1,4 @@
+Pillow
+requests
+customtkinter
+pyinstaller==5.13.2
